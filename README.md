@@ -9,4 +9,5 @@ Requerimiento principal:
 2. Activar entorno virtual
    .\envOCR\Scripts\activate
 
-3. Instalar requeriments.txt
+3. Instalar 
+   pip install -r requirements.txt
